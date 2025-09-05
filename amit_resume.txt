@@ -1,0 +1,81 @@
+Name: Amit Ranjan
+Contact info: mtranjan2020@gmail.com | 8097221766
+Linkedin profile: linkedin.com/in/amitranjan
+Github profile: https://github.com/ranjan0601
+Portfolio_Website: https://ranjan0601.github.io/portfolio_website/ 
+
+Career objective:
+Experienced Data and Finance Analyst over 10 years of experience 
+across Multiple domain including data analytics, collection strategy, MIS, Information management, insurance and equity research. Hands on experience across fintech product lifecycle, strategy and business development. I can leverage my financial acumen, analytical abilities, technical expertise and interpersonal skills to drive existing process, induced business improvement, increase operational efficiency, optimize financial performance and alined to the growth of the organization.
+
+Professional Experience:
+1. Company: Angel One
+Job Role: Quant Research Analyst 
+From: Feb,2021 to present date
+Job responsibility:
+•	Creating financial model for sector agnostic.
+•	Generating risk model to categorize listed script.
+•	Performing quant finance activity on listed stocks.
+•	Handling query related to stock advisory.
+•	Supporting frountend team on handling subbroker query.
+•	Generating and published IPO report, portfolio management and performance update.
+•	handling regulatory updates, vendor management and hosting financial webinar.
+•	End to End product management on advisory product.
+•	Hands on update on bloomberg, Capitaline software and NAV for Mutual fund data.
+•	Utilized Bloomberg and Capitaline software for data extraction and analysis.
+Task and responsibility includes, IPO report & Financials, Managing advisory product including paid and free advisory products, tracking portfolio performance, generating alpha based against benchmark index, continous update on stock trend and latest numbers, vendor relationship management, handling legal and compliance requirement , data extraction from bloomberg, hosting webinars on financial topic for sub brokers, educating clients and vendors on financial products and fundamental analysis, handling compliance query and maintaing management. analysing volume turnover data on listed equity, maintaing compliance in research reports, creating 
+liquidity map on listed stocks through Mutual fund data, Maintaing and modifying quant logic for stock recommendation, Showcaseing performance review monthly and quarterly basis, handling escalations through vendors and internal stakeholders.
+
+
+2. Company: SBI General Insurance
+Job Role: BIU Analyst/ Infomation management
+From: 2019 to 2021
+Job responsibility:
+•	Analyzed insurance data to identify trends and insights for business improvement.
+•	Creating claims dashboard
+•	Implemented dashboard on power bi optimize operations and stakeholders management.
+•	Dashboard optimization and automation laiseing though developers.
+
+
+
+3. Company: ICICI Bank
+Job Role: Strategy and Analytics
+From: 2015 to 2019
+Job responsibility:
+•	Developed and executed strategies for debt management and recovery.
+•	Handling strategy for deep bucket portfolio.
+•	Expertise in emerging market product including Auto, CB, HL and PL.
+•	Handling NPA and GNPA Book.
+•	Part of pan India collection strategy and creating dashboard.
+•	Cross functional responsibility with BIU team for process automation.
+•	Creating review presentation for Emerging market product.
+•	Analyzed financial data to support strategic decision-making.
+
+Current Certification:
+•	NISM Research Analyst XV Series/NISM Series XV exam. Pursuing CFA Level 1
+•	Full stack data science Certification
+•	NPTEL certification on python for data analytics
+•	NPTEL certification on Algo trading with R
+•	Algo trading using Python.
+
+Projects:
+•	Python automation on risk frameworks.
+•	Python automation on analsing Alpha for portfolio Performance.
+•	LLM project using Gemini API.
+•	Data Analysis and EDA projects using python. (Side project)
+•	Classification and Unsupervised learning projects. (Side project)
+•	Python based algo trading systems. (Side project)
+Technical Proficiency:
+•	Excel, Python, SQL, PowerBI, AWS EC2, Git and github
+•	Numpy, Pandas, matplotlib, seaborn, streamlit
+
+Financial Software and Tools used:
+•	Bloomberg
+•	Cline (For Equity Data)
+•	NAV (For Mutual Fund Data)
+•	SAS for data extraction (ICICI)
+
+Education:
+MBA in Finance – From Mumbai University – 2021
+Diploma in Banking and Finance – From Manipal University, Bangalore - 2014
+Graduation in Electronics – From Delhi University - 2010

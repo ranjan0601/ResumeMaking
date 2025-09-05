@@ -1,0 +1,120 @@
+
+ Job Description for Data Analytics
+ Swiss Military is looking for a Data Analyst to join our team in Gurgaon. The ideal candidate will be
+ responsible for gathering, analyzing, and interpreting data to drive business decisions and optimize
+ performance.
+ Key Responsibilities:- Collect, clean, and analyze data from various sources to generate insights.- Develop reports, dashboards, and visualizations to present findings.- Identify trends, patterns, and correlations in large datasets.- Assist in forecasting and data-driven decision-making.- Work with cross-functional teams to improve data accuracy and business processes.- Utilize statistical techniques and tools (Excel, SQL, Python, or Power BI) for analysis.- Automate data reporting and improve efficiency in data handling.
+ Required Skills & Qualifications:- Bachelor's degree in Statistics, Mathematics, Economics, Computer Science, or a related field.- 1-3 years of experience in data analysis or a similar role.- Proficiency in Excel (Pivot Tables, VLOOKUP, Macros), SQL, and Power BI/Tableau.- Knowledge of Python/R for data analysis is a plus.- Strong analytical and problem-solving skills.- Excellent communication and presentation skills.- Ability to work independently and collaboratively in a team environment.
+ Key Performance Indicators (KPIs):- Accuracy and timeliness of reports.- User satisfaction with MIS tools and services.- Reduction in manual efforts through automation.
+- Uptime and efficiency of information systems.
+ Preferred Qualifications:- Experience in retail, e-commerce, or consumer goods industry is a plus.- Understanding of data warehousing concepts.
+ Benefits:- Competitive salary package.- Opportunity to work with a well-established brand.- Professional growth and learning opportunities.
+
+Job Responsibilities:
+- Manage day-to-day MIS reports and ensure timely delivery
+- Create and maintain dashboards to track key performance indicators
+- Develop and generate reports as per process requirements
+- Coordinate with other departments to identify and rectify issues
+- Analyze data to provide insights and support business decisions
+
+Requirements:
+- Strong analytical and problem-solving skills
+- Experience with data analysis and reporting tools
+- Ability to work in a fast-paced environment and meet deadlines
+
+🌟 Urgent Job Opening: Manager Process & Control 🌟
+
+We are seeking a skilled individual to join our Risk & Analytics Department as a Manager Process & Control. If you possess the following skills, we want to hear from you:
+
+- Financial Data management and Analytical skills
+- Proficiency in Advanced Excel and other relevant tools
+- Ability to work with and manage large data sets
+- Understanding of product and process collections (preferable)
+- Familiarity with Python, SQL, or coding (preferable)
+- Strong communication skills
+
+Subject: Resume for Process & Control
+
+If you meet the criteria above, kindly share your resume with us.
+
+Business Analyst role
+
+
+Objectives of this role
+•	Drive awareness of requirements across business units and identify substandard systems processes through evaluation of real-time data
+•	Serve as thought leader for technical business processes, developing systems prototypes that promote increased efficiency and productivity on multiple levels
+•	Create and implement precise management plans for every project, with attention to transparent communication at all levels
+•	Perform, evaluate, and communicate thorough quality assurance at every stage of systems development
+•	Determine and develop user requirements for systems in production, to ensure maximum usability
+Responsibilities
+•	Partner with stakeholders across business units to develop analyses and documentation in a collaborative way, communicating effectively and efficiently with production, managerial, and executive teams
+•	Evaluate, analyze and communicate systems requirements on a continuing basis, and maintain systems processes, including the delivery of monthly status reports to all appropriate parties
+•	Author and update internal and external documentation, and formally initiate and deliver requirements and documentation
+•	Conduct daily systems analytics to maximize effectiveness and troubleshoot problems
+•	Develop meaningful and lasting relationships with partners for optimized systems integration, and respond to questions and concerns from managers and executives with supporting research and recommendations
+
+
+Required skills and qualifications
+•	2-4 years of experience in analytics and systems development
+•	High proficiency with SQL and database management
+•	Proven analytical abilities
+•	Experience in generating process documentation and reports
+
+
+Candidate must/preferably have
+•	Experience of working in broking back office operations
+•	NISM Certification
+•	ISTQB Certification
+•	Experience of writing BRD / FSD, manual testing, automation testing
+•	Understanding of equity / FNO trading & settlement.
+
+
+Preferred skills and qualifications
+•	B.E. / B.Tech / MCA
+•	Proven ability to manage projects and user testing
+•	Excellent communication skills, with an ability to translate data into actionable insights.
+•	Location - Mumbai
+Experience
+
+
+•	3+ Years experience in banking/investment banking/fintech industry
+•	Post graduate qualifications in Finance, Commerce or Business from reputed B Schools (Preferred)
+•	Fluent in structured and unstructured data, its management and data transformation techniques
+•	Exposure to Python - Automation, PowerBI, PowerQuery, VBA/Macros
+•	Reports, data visualisation and dashboards
+•	Strong oral and written communication skills, including sound presentational skills
+
+
+The Individual will be responsible for
+
+
+•	Strategically support productivity initiatives across organisation. 
+•	Development and driving of cost efficiency initiatives across domains
+•	Encourage and provide a culture of innovation and continual improvement
+•	Be a change agent to inspire speed to value technology improvements for the business
+•	Ensure alignment to consistent frameworks for continuous delivery
+•	Strong analytical capabilities, and ability to shift between deep in the detail and pulling up to synthesize executive level insights and recommendations
+
+
+Essential capabilities
+
+
+•	Provide Business Support, primarily for Incident logging, Production changes and root cause analysis for issues
+•	Robust quantitative analytical skill set
+•	Handle, and report from, different data bases in collaboration with domain experts
+•	Ability to synthesise clear takeaways and recommendations from analysing complex. information using both quantitative and qualitative methods
+•	Strong logical reasoning, creative and strategic thinking skills
+•	Flexibility in resolving issues and addressing changing priorities
+•	Ability to work well independently as well as the ability to work well with stakeholders
+•	Excellent organizational and interpersonal skills, and ability to work as part of a team
+•	Develop and maintain effective relationships with business partners and cross-functional teams at all levels of the organization
+What we are looking for: 
+
+
+•	2+ years of experience as a business/data analyst 
+•	Must have proficiency in SQL, Python and BI tools 
+•	Excellent verbal and written communication skills, able to communicate effectively with the business stakeholders 
+•	Having an analytical mindset. A knack for analyzing data with a solid foundation in math and statistics. 
+•	A strong aptitude for leveraging advanced algorithms and machine learning techniques to extract actionable insights and drive strategic decisions 
+•	Preferably BTech from a top tier engineering college
+
